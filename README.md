@@ -1,7 +1,7 @@
 # CNC Machien Tool Cutting Sound Dataset
 
 ## Introduction
-Welcome to the CNC milling cutting sound dataset repository. This dataset has been collected as part of the research conducted for the papers[^1] . The dataset encompasses cutting sound in CNC milling process in both lab and industry settings, which have been meticulously collected and processed to facilitate reproducibility and further research.
+Welcome to the CNC milling cutting sound dataset repository. This dataset has been collected as part of the research conducted for the papers[^1], [^2] . The dataset encompasses cutting sound in CNC milling process in both lab and industry settings, which have been meticulously collected and processed to facilitate reproducibility and further research.
 
 [^1]: My reference.
 [^2]: My reference2.
