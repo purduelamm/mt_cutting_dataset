@@ -10,7 +10,7 @@ Welcome to the CNC milling cutting sound dataset repository. This dataset has be
 The primary aim of sharing this dataset is to promote transparency and repdoducibility in research. By making this dataset publicly available, we hope to:
 
 * Enable other researchers to validate and build upon our findings.
-* Foster collaboration and data sharing withint the research community.
+* Foster collaboration and data sharing within the research community.
 * Contribute to the body of knowledge in the field of machine sound recognition of metal cutting industry.
 
 ### Description
