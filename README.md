@@ -27,6 +27,7 @@ The primary aim of sharing this dataset is to promote transparency and repdoduci
 
 This repository tree for the datasets is shown below.
 
+<pre>
 project
 |   README.md
 ├───IMI
@@ -45,7 +46,7 @@ project
     ├───*_sensor0.wav
     ├───cutting.csv
     ├───Video1.mp4
-
+</pre>
 
 
 
