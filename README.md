@@ -143,7 +143,7 @@ Regarding sound data collection for each dataset, to collect sound data and stre
 *Figure 1: **KRPM** sound data collection: (A) Schematic of sensor deployment, (B) 4-axis mill (HCN6000, Mazak), (C) Working area and Sensor 0, (D), Spindle and Sensor 1, and (E) Sensor 2*
 
 
-[^1]: E. Kim, T. Bui, J. Yuan, S. C. Mouli, B. Ribeiro, R. A. Yeh, M. P. Fassnacht, and M. B. Jun, “Online real-time machining chatter sound detection using convolutional neural network by adopting expert knowl- edge,” Manufacturing Letters, 2024, (forthcoming).
+[^1]: E. Kim, T. Bui, J. Yuan, S. C. Mouli, B. Ribeiro, R. A. Yeh, M. P. Fassnacht, and M. B. Jun, “Online real-time machining chatter sound detection using convolutional neural network by adopting expert knowl- edge,” 2024, Manufacturing Letters (forthcoming).
 [^2]: M. Mostafiz, E. Kim, A. Li, E. Bertino, M. B. Jun, and A. Shakouri, "Adversarial Domain Adaptation for Metal Cutting Sound Detection: Leveraging Abundant Lab Data for Scarce Industry Data," 2024 IEEE 22nd International Conference on Industrial Informatics (INDIN), (submitted).
 [^3]: https://www.purdue.edu/in-mac/ (accessible on May 30, 2024).
 [^4]: https://www.kirbyrisk.com/precision-machining (accessible on May 30, 2024).
