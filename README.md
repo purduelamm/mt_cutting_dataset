@@ -62,14 +62,6 @@ In the `IMI` dataset, `labeling_all_details.xlsx` includes details of cutting co
 
 [Table 1](#table1) summarizes a comparison of the datasets. At **IMI**, the cutting process involved end-milling with simple zig-zag tool paths, encompassing a variety of cutting conditions, such as different end mills, materials, tool wear conditions, and tool setups. In contrast, the **KRPM** dataset includes additional cutting processes like facing and drilling. To accurately label the cutting sounds, an expert meticulously reviewed the recorded video footage while simultaneously listening to the audio from each sensor. Given that the workpiece was made of cast iron, which resulted in irregular shapes, determining the exact start and end times of the cutting process was challenging.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-</style>
 <table id="table1" class="tg"><thead>
   <caption>Table 1: Comparisons of datasets</caption>
   <tr>
