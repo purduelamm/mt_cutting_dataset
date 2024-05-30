@@ -125,7 +125,7 @@ In the `IMI` dataset, `labeling_all_details.xlsx` includes details of cutting co
   <tr>
     <td class="tg-c3ow" colspan="2">Cutting condition (Remark)</td>
     <td class="tg-c3ow">527 (limited to end-milling)</td>
-    <td class="tg-c3ow">a few (inclduing end-milling, facing, and drilling)</td>
+    <td class="tg-c3ow">a few (including end-milling, facing, and drilling)</td>
   </tr>
 </tbody></table>
 
